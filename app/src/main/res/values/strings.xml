@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">Prague Basic Tour Guide</string>
+    <string name="action_settings">Resources</string>
+
+    <!-- Top groups -->
+    <string name="group_1">Sightseeing</string>
+    <string name="group_2">Museums</string>
+    <string name="group_3">Hotels</string>
+    <string name="group_4">Family trip</string>
+
+    <!-- First group, Sightseeing -->
+    <string name="sightseeing_name_1">Prague Castle</string>
+    <string name="sightseeing_open_1">6:00 - 22:00</string>
+    <string name="sightseeing_entry_1">Free</string>
+    <string name="sightseeing_text_1">In Prague\'s Hradčany neighborhood, Prague Castle (Pražský hrad), once the home of Bohemia\'s kings...</string>
+
+    <string name="sightseeing_name_2">Charles Bridge</string>
+    <string name="sightseeing_open_2">24/7</string>
+    <string name="sightseeing_entry_2">Free</string>
+    <string name="sightseeing_text_2">One of the most recognizable old bridges in Europe, magnificent Charles Bridge (Karlův Most) boasts...</string>
+
+    <string name="sightseeing_name_3">The Old Town Square and the Astronomical Clock</string>
+    <string name="sightseeing_open_3">24/7</string>
+    <string name="sightseeing_entry_3">Free</string>
+    <string name="sightseeing_text_3">The historic center of Prague, the Old Town (Staré Město), is where you\'ll...</string>
+
+    <string name="sightseeing_name_4">The Strahov Monastery and Library</string>
+    <string name="sightseeing_open_4">9:00 - 17:00</string>
+    <string name="sightseeing_entry_4">Paid</string>
+    <string name="sightseeing_text_4">The Strahov Monastery and Library (Strahovsky kláster) dates back to the 12th...</string>
+
+    <string name="sightseeing_name_5">Wenceslas Square</string>
+    <string name="sightseeing_open_5">24/7</string>
+    <string name="sightseeing_entry_5">Free</string>
+    <string name="sightseeing_text_5">A highlight of Prague\'s New Town (Nové Město) district - an area that grew out of the city\'s need to...</string>
+
+    <string name="sightseeing_name_6">The Hilltop Fortress: Vyšehrad</string>
+    <string name="sightseeing_open_6">24/7</string>
+    <string name="sightseeing_entry_6">Free</string>
+    <string name="sightseeing_text_6">Looking like something out of a fairytale, the Vyšehrad fortress stands high above the Vltava River...</string>
+
+    <!-- Second group, Museums -->
+    <string name="museum_name_1">The National Museum</string>
+    <string name="museum_open_1">Closed (Reconstruction)</string>
+    <string name="museum_entry_1">Paid</string>
+    <string name="museum_text_1">The National Museum (Národní Muzeum) in Prague is spread across a number of locations and houses...</string>
+
+    <string name="museum_name_2">The National Technical Museum</string>
+    <string name="museum_open_2">Depends on day</string>
+    <string name="museum_entry_2">Paid</string>
+    <string name="museum_text_2">For over a hundred years extensive collections have been assembled here...</string>
+
+    <string name="museum_name_3">Czech Museum Of Music</string>
+    <string name="museum_open_3">10:00 - 18:00</string>
+    <string name="museum_entry_3">Paid</string>
+    <string name="museum_text_3">The building’s permanent exposition, titled Man–Instrument–Music, presents musical instruments not...</string>
+
+    <string name="museum_name_4">Museum Of Communism</string>
+    <string name="museum_open_4">9:00 - 21:00</string>
+    <string name="museum_entry_4">Paid</string>
+    <string name="museum_text_4">The Museum of Communism is the primary attraction of its kind in Prague, leading visitors through...</string>
+
+    <string name="museum_name_5">Prague City Museum</string>
+    <string name="museum_open_5">9:00 - 17:00</string>
+    <string name="museum_entry_5">Paid</string>
+    <string name="museum_text_5">Prague City Museum houses historical artefacts, documents, weapons and maps documenting the history of...</string>
+
+
+    <!-- Third group, Hotels -->
+    <string name="hotel_name_1">Le Palais Art Hotel Prague</string>
+    <string name="hotel_score_1">9/10</string>
+    <string name="hotel_entry_1">From 120 € per night</string>
+    <string name="hotel_text_1">Interiors by Veronika Jurkowitsch somehow blend Baroque with modernity, with as many cosy...</string>
+
+    <string name="hotel_name_2">Boscolo Prague</string>
+    <string name="hotel_score_2">9/10</string>
+    <string name="hotel_entry_2">From 110 € per night</string>
+    <string name="hotel_text_2">With its opulent public spaces and exquisitely designed rooms, Prague’s Boscolo hotel oozes...</string>
+
+    <string name="hotel_name_3">Augustine</string>
+    <string name="hotel_score_3">9/10</string>
+    <string name="hotel_entry_3">From 210 € per night</string>
+    <string name="hotel_text_3">Arguably one of Prague’s most impressive accommodation options, the five-star Augustine merges...</string>
+
+    <string name="hotel_name_4">Alchymist Prague Castle Suites</string>
+    <string name="hotel_score_4">9/10</string>
+    <string name="hotel_entry_4">From 190 € per night</string>
+    <string name="hotel_text_4">Tucked away on a cobbled corner just uphill from the Czech parliament, itself settled into the 18th-century...</string>
+
+    <string name="hotel_name_5">Golden Well Hotel</string>
+    <string name="hotel_score_5">9/10</string>
+    <string name="hotel_entry_5">From 40 € per night</string>
+    <string name="hotel_text_5">The feel of a royal retreat runs throughout these cosy yet classic 19 guest rooms, located just below...</string>
+
+
+
+    <!-- Fourth group, Family trip -->
+    <string name="familyTrip_name_1">Prague Zoo</string>
+    <string name="familyTrip_open_1">Depends on the year season</string>
+    <string name="familyTrip_entry_1">Paid</string>
+    <string name="familyTrip_text_1">There is so much to see in the historic areas of Prague that visitors often don\'t consider a visit to a zoo. But do...</string>
+
+    <string name="familyTrip_name_2">National Monument in Vitkov</string>
+    <string name="familyTrip_open_2">10:00 - 18:00</string>
+    <string name="familyTrip_entry_2">Paid interior</string>
+    <string name="familyTrip_text_2">The National Monument on top of Vítkov hill in Prague\'s Žižkov district is one of the most important...</string>
+
+    <string name="familyTrip_name_3">Prague Astronomical Clock</string>
+    <string name="familyTrip_open_3">24/7</string>
+    <string name="familyTrip_entry_3">Free</string>
+    <string name="familyTrip_text_3">Located in the Old Town Square, the Prague Astronomical Clock has been around since...</string>
+
+    <string name="familyTrip_name_4">Sea World</string>
+    <string name="familyTrip_open_4">8:00 - 19:00</string>
+    <string name="familyTrip_entry_4">Paid</string>
+    <string name="familyTrip_text_4">Although small by international standards, Sea World (Morsky-Svet) is the largest of its kind in...</string>
+
+    <string name="familyTrip_name_5">Grevin Prague Waxworks</string>
+    <string name="familyTrip_open_5">10:00 - 17:00</string>
+    <string name="familyTrip_entry_5">Paid</string>
+    <string name="familyTrip_text_5">Grevin Prague Waxworks leads visitors on an entertaining journey through the capital\'s history, to...</string>
+
+</resources>
